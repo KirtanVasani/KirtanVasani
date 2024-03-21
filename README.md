@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirtan Vasani</h1>
 <h3 align="center">passionate about web development.</h3>
 
-<img width="1834" alt="Make your README (2)" src="https://github.com/KirtanVasani/KirtanVasani/assets/111449581/e8a52f88-8aaf-4d43-8226-e541757d73a5">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanvasani&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanvasani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kirtanvasani2" target="blank"><img src="https://img.shields.io/twitter/follow/kirtanvasani2?logo=twitter&style=for-the-badge" alt="kirtanvasani2" /></a> </p>
