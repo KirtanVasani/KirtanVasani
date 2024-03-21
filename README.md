@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan Vasani</h1>
-<h3 align="center">passionate about web development.</h3>
+<h3 align="center">passionate about Full stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanvasani&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanvasani" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Full stack development**
 
-- 📝 I regularly write articles on **X**
+- 📝 I am Learning in public on **X**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
